@@ -3,4 +3,5 @@ export interface Pal {
   number: number;
   type1: string;
   type2?: string;
+  partnerSkill: string;
 }
