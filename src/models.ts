@@ -1,6 +1,7 @@
 export interface Pal {
+  image: string;
   name: string;
-  number: number;
+  number: string;
   type1: string;
   type2?: string;
   partnerSkill: string;
